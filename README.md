@@ -1,6 +1,6 @@
 # Pix-OTT
 
-   # Pix OTT Platform
+   # Pix-OTT Platform
 
 ## Project Description
 
@@ -24,7 +24,7 @@ If exit option is chosen, it would stop the application.
 
 ## Features
 
-* User can create an account using PixOTT platoform using their mobile no, user name and password.
+* User can create an account using Pix-OTT platoform using their mobile no, user name and password.
 * Favourite movies can be added in a wishlist by user.
 * Has admin controller which gives access to update the movie details.
 
@@ -35,7 +35,7 @@ To-do list:
 
 ## Getting Started
 
-  Download source code from https://github.com/7naresh7/pixott.git
+  Download source code from https://github.com/AlwinAlphabot/Pix-OTT
   - Import the project in Eclipse/Springtoolsuite IDE.
   - Add a driver manager in library.
   - Create an user table, movie table, topfivemovie table, history table and wishlist table with columns mentioned in DAO files in pixott schema.
