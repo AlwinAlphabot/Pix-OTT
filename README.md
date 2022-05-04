@@ -1,6 +1,4 @@
-# Pix-OTT
-
-   # Pix-OTT Platform
+# Pix-OTT Platform
 
 ## Project Description
 
