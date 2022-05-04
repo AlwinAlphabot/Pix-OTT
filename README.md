@@ -2,11 +2,12 @@
 
 ## Project Description
 
-Pix is an imaginary “Over The Top” (OTT) platform. It is an app built as a console-based application using Java, JDBC and MySQL database. It has the layout consists of Login, Sign up and Exit options.
+Pix is an imaginary “Over The Top” (OTT) platform. 
+It is an app built as a console-based application using Java, JDBC and MySQL database. 
+It has the layout consists of Login, Sign up and Exit options.
 For login, user input will be collected from console and JDBC connection will be established to fetch the user details and allows user to login.
-If user details are valid, layout options will consist of Top 5 Movies, Show History and WishList. Each options entered will establish JDBC connection and displays the fetched details from DAO.
-For signup, user's mobile number, user name and password will be collected and store in a USER table.
-If exit option is chosen, it would stop the application.
+If user details are valid, layout options will consist of Top 5 Movies, Show History and WishList, show history
+For Admin to a gave Full access to the Options.
 
 ## Technologies Used
 
