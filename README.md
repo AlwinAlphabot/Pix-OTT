@@ -6,7 +6,7 @@ Pix is an imaginary “Over The Top” (OTT) platform.
 It is an app built as a console-based application using Java, JDBC and MySQL database. 
 It has the layout consists of Login, Sign up and Exit options.
 For login, user input will be collected from console and JDBC connection will be established to fetch the user details and allows user to login.
-If user details are valid, layout options will consist of Top 5 Movies, Show History and WishList, show history
+If user details are valid, layout options will consist of Top 5 Movies, Show History and WishList, show history.
 For Admin to a gave Full access to the Options.
 
 ## Technologies Used
